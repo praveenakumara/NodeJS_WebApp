@@ -1,0 +1,8 @@
+installation guide
+in instance first 
+# apt install nodejs
+# apt install npm
+now go to project folder  exp: cd /nodejs
+# npm install 
+above command will install some dependency that your project require
+ after that your source code is ready for the docker file
